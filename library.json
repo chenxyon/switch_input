@@ -1,0 +1,9 @@
+{
+  "name": "switch_input",
+  "version": "1.0.0",
+  "description": "Switch/button input handler",
+  "keywords": "switch,button,input",
+  "repository": { "type": "git", "url": "https://github.com/chenxyon/switch_input.git" },
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
